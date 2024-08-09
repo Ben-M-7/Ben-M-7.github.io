@@ -1,8 +1,8 @@
 ---
 title: Summary
 date: 2024-08-09 03:18:00 +0800
-categories: [ summary]
-tags: [ overview]
+categories: [summary]
+tags: [overview]
 ---
 
 # EDIT AI Program Overview
