@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://biomedicalengineering.io/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fcpgts12o%2Fproduction%2F04d55c5cafc966bceee0d44fc876937dc1f346e5-1792x1024.webp%3Fw%3D1792%26q%3D100%26auto%3Dformat&w=3840&q=100
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
